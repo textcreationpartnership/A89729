@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from New-Castle, containing the substance of severall speeches made by his Majesty, and by Duke Hammilton, the Earle of Lennerick, and the Earle of Calender: with divers passages of their proceedings for the setling of both kingdoms, and disposing of his Majesty. Septemb. 14. 1646. Examined by the originall papers, and printed and published according to order, and for generall satisfaction.</title>
+            <author>E. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89729</idno>
+            <idno type="STC">Wing N13</idno>
+            <idno type="STC">Thomason E354_3</idno>
+            <idno type="STC">ESTC R201092</idno>
+            <idno type="EEBO-CITATION">99861657</idno>
+            <idno type="PROQUEST">99861657</idno>
+            <idno type="VID">159877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159877)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E354[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from New-Castle, containing the substance of severall speeches made by his Majesty, and by Duke Hammilton, the Earle of Lennerick, and the Earle of Calender: with divers passages of their proceedings for the setling of both kingdoms, and disposing of his Majesty. Septemb. 14. 1646. Examined by the originall papers, and printed and published according to order, and for generall satisfaction.</title>
+                  <author>E. N.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.E. the 15. of September,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Dom. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on page 6: Newcastle the 10. of Septemb. 1646. E.N.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159877:1" rendition="simple:additions"/>
+            <p>A LETTER FROM New-Caſtle, CONTAINING The ſubſtance of ſeverall Speechcs made by his Majeſty, AND By Duke <hi>Hammilton,</hi> the Earle of <hi>Lennerick,</hi> and the Earle of <hi>Calender:</hi> With divers paſſages of their proceedings for the ſetling of both Kingdomes, and diſpoſing of his Majeſty.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Septemb. 14. 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>Examined by the Originall Papers, and printed and publiſhed according to ORDER, and for generall ſatisfaction.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. E.</hi> the 15. of September, <hi>Anno Dom.</hi>
+            </p>
+            <p>1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159877:2"/>
+            <pb facs="tcp:159877:2"/>
+            <head>A LETTER FROM Newcaſtle Publiſhed for Generall ſatisfaction.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE King being returned from <hi>Tinmouth</hi> Caſtle, Wedneſday the 2. Inſtant at night, His Majeſty came to his Quarters in <hi>Newcaſtle; Monſieur Belliver,</hi> the <hi>French Em<g ref="char:EOLhyphen"/>baſsadour</hi> ſtill with him, we heare that Montrill is diſpatched by the <hi>Eſtates</hi> of <hi>France,</hi> but he is not yet returned hither, whether he goes firſt to meet
+<pb n="2" facs="tcp:159877:3"/> the Lord <hi>Digby</hi> or not I cannot advertiſe you; But he is expected here.</p>
+            <p>On Thurſday September the 3. His Majeſty had notice that Duke <hi>Hamilton,</hi> the Earle of <hi>Cra<g ref="char:EOLhyphen"/>ford, Linſey,</hi> the Earle of <hi>Caſtles,</hi> the Lord <hi>Balma<g ref="char:EOLhyphen"/>rinoth,</hi> and 6. other <hi>Barrons,</hi> and <hi>Burgeſſes,</hi> would be at <hi>Newcaſtle</hi> the next day, with divers papers from the Eſtates of <hi>Edenborough</hi> that day His Ma<g ref="char:EOLhyphen"/>jeſtie ſpent ſome time in private, and tooke a little recreation at <hi>Goffe.</hi>
+            </p>
+            <p>On Fryday September the 4. the Quarters were made ready for the Reception of the Com<g ref="char:EOLhyphen"/>miſſioners accordingly as was thought fit, and they were received into the Towne with very much gladneſſe, by many who pray that they may prevaile with His Majeſtie.</p>
+            <p>On Saturday the 5. the Commiſſioners ac<g ref="char:EOLhyphen"/>quainting His Majeſtic that they were come from the Eſtates of <hi>Scotland,</hi> and that they deſired that they might have audience, which was appointed by His Majeſtie.</p>
+            <p>On the Lords day; September the 6. His Ma<g ref="char:EOLhyphen"/>jeſty heard wholſom doctrine preached unto him, addreſſes of godly Miniſters, to perſwade him to harken to the requeſts of his Kingdomes. The Commiſſioners had alſo two of their Miniſters preached to them, one in the fore noone, and the other in the afternoone to give encouragements (out of Gods Word) to go on in labouring what they may in the work of the Lord, aſſuring them,
+<pb n="3" facs="tcp:159877:3"/> that however they ſhall not loſe their reward.</p>
+            <p>On Munday the 7. we had ſome complaints here, that there were Countrie people who had bin at Faires in theſe parts who had ſuffcred by ſom unrulie Souldiers, which I know you cannot be ignorant that ſuch things will be where Armies quarter.</p>
+            <p>On Tueſday the 8. (and ſo alſo ſeverall times before that) the Commiſſioners have been with His Majeſtie, and divers paſſages have fallen be<g ref="char:EOLhyphen"/>tween them, amongſt the reſt.</p>
+            <p>Yeſterday being Wedneſday the 9. of this pre<g ref="char:EOLhyphen"/>ſent September, 16<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. There were ſeverall ſpeeches made, the firſt was delivered by the Duke of <hi>Hamilton,</hi> who when they were come to His Majeſty on the ſaid Wedneſday; and received Audience, His Lordſhip ſpake to this effect before His Majeſtie.</p>
+            <p>That they were againe returned to His Majeſtie from the Kingdom of <hi>Scotland,</hi> and that they were commanded by the Committee of Eſtates at <hi>Edenborough</hi> (from whom they had received an order for that purpoſe) to deſire the King.</p>
+            <p>Firſt, that out of the deepe ſence of the bleeding miſeries, and calamities of His Kingdomes, His Majeſtie would be pleaſed to take the Covenant, and ſubſcribe to it; And 2. That His Majeſtie will likewiſe ſigne the Propofitions, that were preſented to him at Newcaſtle by the Commiſſioners of both Kingdoms, it being the onely way to make His Majeſty happy, and to ſettle all the Kingdoms in Peace;
+<pb n="4" facs="tcp:159877:4"/> And withall, that hee was come partly to cleere himſelf, and that Family whereof he is, by reaſon that there are rumours ſpread abroad, that they ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be the men on whom (at this time as things now ſtand) his Majeſtie did much rely on, for the carrying on of his deſigns againſt the Parliaments of the Kingdomes (againſt which his Lordſhip doth proteſt, and therefore further told his Maje<g ref="char:EOLhyphen"/>ſtie.)</p>
+            <p>That for his part, as the two Kingdomes were joined in ſo bleſſed a union, againſt thoſe who have ſought to deſtroy them; ſo he would (to the uttermoſt of his power) joine with them, to op<g ref="char:EOLhyphen"/>poſe any that ſhould in any kind kinder ſo great and good a work.</p>
+            <p>After that Duke <hi>Hamilton</hi> had done ſpeaking, (which he performed with much wiſedome, gra<g ref="char:EOLhyphen"/>vitie, and freeneſſe) The Earl of <hi>Lanerick</hi> (who was then preſent) ſpake to this effect following:</p>
+            <p>That the Tranſactions of the affairs of the King<g ref="char:EOLhyphen"/>domes are now gone ſo farre, that they would bee very ſodainly put to it to conſider what to do with (and how to diſpoſe of) his Majeſty; for the Armie being now to go home, and that they were to de<g ref="char:EOLhyphen"/>liver up all the Garriſons in England, and all of them to return into their own Countrey of Scot<g ref="char:EOLhyphen"/>land, That therefore they ſhould conſider what to doe in this caſe, becauſe when they are going a<g ref="char:EOLhyphen"/>way, what could they then do with his Majeſtie? And then making a pauſe a while, his Lordſhip,
+<pb n="5" facs="tcp:159877:4"/> ſpake further to this effect,) That if they ſhould take the King to Scotland, they have no place to put his Majeſtie in, but the Caſtle of Edenbo<g ref="char:EOLhyphen"/>rough.</p>
+            <p>Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Earl of <hi>Calender</hi> ſpake, after that the Ea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of <hi>Lanerick</hi> had done ſpeaking; the ſubſtance of whoſe ſpeech was thus:</p>
+            <p>That he deſired his Majeſtie to conſider of what evill conſequence it is, to refuſe to hearken to his Parliaments; propounding, what could his Maje<g ref="char:EOLhyphen"/>ſtie expect, That if any perſon, or perſons whatſo<g ref="char:EOLhyphen"/>ever had perſwaded him, that he had a conſidera<g ref="char:EOLhyphen"/>ble Partie in this Armie, and alſo at home to joyn with him; ſurely he was much miſtaken: For the greateſt Malignants of them all, either in the one Kingdom, or in the other, have their mouths now ſtopped, in beholding the two Kingdoms now joi<g ref="char:EOLhyphen"/>ning <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o lovingly together.</p>
+            <p>Divers other paſſages there were in the Confe<g ref="char:EOLhyphen"/>rence, too large for me to inſert here: And at laſt, the Duke <hi>Hamilton</hi> told the King, that hee was commanded by the Committee of Eſtates, to ſpeak ſomething to his Majeſtie, which of him<g ref="char:EOLhyphen"/>ſelf he durſt nor, ſeeing he tendered his Majeſtie ſo much; yet in obedience to his Commands, it was his duty to ſpeak it.</p>
+            <p>But his Majeſtie roſe up and ſaid, That he knew the buſineſſe very well, and that hee would ſpeak of that ſome other time.</p>
+            <p>On this preſent Thurſday the 10. of Septemb:
+<pb n="6" facs="tcp:159877:5"/> The Miniſters ſent from the Kingdome of Scot<g ref="char:EOLhyphen"/>land were with the King, and ſpent much time with his Majeſtie; the buſineſſe that they were up<g ref="char:EOLhyphen"/>on, was about Eccleſiaſtical matters, to cleer ſome points to his Majeſtie, in matter of Conſcience, which took up ſome time, though very little ſee<g ref="char:EOLhyphen"/>ming to be prevalent, in what they ſo laboured for; yet they are reſolved to do what they can, and go on to the utmoſt in what lies in them, and leave the event to God.</p>
+            <p>To morrow the Commiſſioners intend to bee with the King again, to confer with his Majeſtie, in point of honour. By the next, you ſhall be fur<g ref="char:EOLhyphen"/>ther advertized from</p>
+            <closer>
+               <signed>Your Servant to his power, <hi>E. N.</hi>
+               </signed> 
+               <dateline>Newcaſtle <date>the 10. of Septemb. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
